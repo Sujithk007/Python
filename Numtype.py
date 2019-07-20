@@ -1,4 +1,4 @@
-Num=eval(input())
+Num=int(input())
 if(Num>0):
 	print('Positive')
 elif(Num<0):
