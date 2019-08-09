@@ -1,1 +1,1 @@
-print(input().replace(' ',''))
+s=print(len(input().replace(' ','')))
