@@ -1,1 +1,1 @@
-print(int(input())+1)
+print(eval(input())+1)
