@@ -1,2 +1,1 @@
-m=int(input())
-print(m+1)
+print(int(input())+1)
