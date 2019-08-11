@@ -1,1 +1,1 @@
-print(max(list(map(int,input().split(' ')))))
+print(max(list(map(int,input().split(' ')[:]))))
