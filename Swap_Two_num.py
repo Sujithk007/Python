@@ -1,2 +1,3 @@
 m,n=map(int,input().split(' '))
-print('%d %d'%(n,m))
+m,n=n,m
+print('%d %d'%(m,n))
