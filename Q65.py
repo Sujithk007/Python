@@ -1,2 +1,1 @@
-w=input()
-print(w)
+print(eval(input()))
