@@ -1,2 +1,2 @@
-m=int(input())
-print(m*2)
+re=eval(input())
+print(re*2)
