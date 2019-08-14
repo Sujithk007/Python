@@ -1,4 +1,4 @@
 m=input()
-print(m)
 s=''.join(reversed(m))
-print(s)
+if(s==m): print('yes')
+else: print('no')
